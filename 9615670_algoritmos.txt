@@ -1,0 +1,63 @@
+c- Preparar un desayuno chapín.
+
+	1. Sacar los ingredientes (frijoles, cebolla, tomate, huevos, platanos, queso, crema, aceite, sal, bebida, pan).
+	2. Iniciar proceso de preparar los frijoles.
+	3. Cortar trozos de cebolla.
+	4. Poner a calentar el sarten.
+	5. Poner aceite en el sarten.
+	6. Con el aceite caliente, poner una parte de los trozos de cebolla a cocer.
+	7. Después de 2 cocinando la cebolla, agregar los frijoles,.
+	8. Dejar cocinar los frijoles 5 minutos más junto con la cebolla, (los frijoles, están pre-cocidos).
+	9. Mover los frijoles que se están cocinando.
+	10.	Apagar el fuego a los frijoles
+	11. Cortar en rebanadas el platano.
+	12. Poner a calentar un segundo sarten.
+	13. Poner aceite en el segundo sarten.
+	14. Poner a cocinar o dorar las rebanadas de platano en el segundo sarten por 2 minutos.
+	15. Dar vuelta a las rebanadas de platano y cocinar el otro lado por 2 minutos.
+	16. Apagar el fuego al segundo sarten.
+	16. Poner a calentar un tercer sarten.  
+	17. Poner aceite en el tercer sarten.
+	18. Poner los trozos de cebolla restantes en el tercer sarten.
+	19. Poner los trozos de tomate en el sarten.
+	20. Poner sal sobre los trozos de tomante y cebolla.
+	21. Mezclar los trozos de cebolla y tomate.
+	23. Cocinar por 2 minutos.
+	24. Agregar los huevos a la mezcla de tomate y cebolla.
+	25. Mezclar los huevos con la mezcla de tomate y cebolla.
+	26. Cocinar por 3 minutos.
+	27. Apgar el fuego al tercer sarten.Tomar el plato para servir el desayuno.
+	28. Tomar el plato para servir el desayuno.
+	29. Servir los frijoles en racion para una persona.
+	30. Servir los huevos en racion para una persona.
+	31. Servir 4 rebanas de platano.
+	32. Servir Queso y Crema.
+	33. Poner plato en la mesa.
+	34. Colocar cubiertos a lado del plato.
+	35. Tomar un vaso y poner en la mesa.
+	36. Servir la bebida en el vaso.
+	37. Sacar el pan.
+	38. Sacar un recipiente adecuando para el pan.
+	39. Colocar el pan en el recipiente.
+	40. Poner el recipiente con el pan sobre la mensa.
+
+
+f- Coser un hoyo de un pantalón.
+
+	1. Buscar el pantalón con el hoyo.
+	2. Si ya está lavado, pasar a conserlo, si no está lavado, lavarlo antes y luego pasar a coserlo.
+	2. Poner el pantalón extendido en la mesa de costura.
+	3. Buscar el estuche de costura.
+	4. Sacar la aguja del estuche de costura.
+	5. Sacar el hilo del estruche de costura.
+	6. Enebrar el hilo en el ojo de la aguja.
+	7. Hacer un nudo en la punta del hilo enebrado.
+	8. Limpiar los bordes del hoyo en el pantalón.
+	9. Buscar entre los retazos de tela, un pedazo de tela para usarlo como parche.
+	10. Cortar a la medida del hoyo el pedazo de tela para el parche.
+	11. Iniciar el surcido, uniendo el borde del pedazo de tela con el borde del hoyo en el pantalon.
+	12. Pasar el hilo entre los bordes hasta completar el surcido en todo el hoyo en el pantalon.
+	13. Planchar el pantalón.
+	14. Doblar el pantalón.
+	15. Guardar el pantalón en la ropa limpia.
+

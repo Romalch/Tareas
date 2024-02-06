@@ -1,0 +1,28 @@
+Actividad Extra:
+	Problema:  Endoso de cheques para depósitar a la cuenta de la empresa.
+
+	Normalmente un cheque se debe endosar en la parte de atrás con el texto "Para despósitar a la cuenta XX-XXXXXX-XX a nombre de LA EMPRESA, S.A., también se debe colocar una firma o rúbrica de la persona que realiza el depósito en la agencia bancaria.  El problema se da al enviar a una persona con una escritura no tan clara o tiene alguna dificultad que pueda generar la posibilidad de cometer un error al momento de hacer el endoso."
+
+	Solución:  Usar un sello automático con los datos de la cuenta y la empresa, para que únicamente la persona que hace el depósito haga una rúbrica o firma.
+
+	Algoritmo para obtener el sello.
+
+	1. Tener a la mano el número de cuenta
+	2. Hacer un diseño para el sello
+	3. Validar el diseño del sello 
+	4. Cotizar el sello
+	5. Enviar a fabricar el sello
+	6. Hacer el pago
+	7. Recoger el sello
+	8. Entregar el sello a la persona que hace los depósito
+
+	Algoritmo para hacer el endoso del cheque
+
+	1. Tener el cheque a depósitar a la mano
+	2. Tener el sello para endoso a la mano
+	3. Colocar el cheque sobre una superficie con la parte de atrás hacia arriba.
+	4. Sacar el sello de su estuche
+	5. Alinear el sello correctamente en el area de endoso del cheque
+	6. Accionar el sello para que imprima el texto de endoso en el cheque
+	7. Hacer una rúbrica debajo del texto impreso por el sello
+	

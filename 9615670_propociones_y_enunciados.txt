@@ -1,0 +1,74 @@
+3- Elija un sujeto cualquiera, un trabajador, un estudiante, una mascota, etc. Luego
+complete los siguiente incisos:
+
+Sujeto:  Estudiante Universitario
+
+Enunciados simples verdaderos. 
+○ Tiene deseo de aprender
+○ Tiene acceso a internet
+○ Tiene que leer libros
+○ Tomará clases en línea
+○ Deberá relizar actividades en grupo
+○ Tiene que hacer una agenda para organizar sus horarios
+○ Debe ser responsable 
+○ Debe entregar la papelería que se le solicita
+○ Conocerá nuevas personas
+○ Entregará tareas
+
+
+● Enunciados simples falsos.
+○ Tiene clases presenciales
+○ Será sencillo graduarse
+○ No debe participar en clase
+○ No sabe leer
+○ Usará uniforme
+○ No hará amistad con sus compañeros
+○ Presentará en línea el trabajo final 
+○ Puede ganar sin estudiar
+○ No necesita una computadora
+○ Debe construír un cohete
+
+● Finalmente, haciendo uso de las proposiciones lógicas y los enunciados de los
+dos puntos anteriores, cree 10 enunciados nuevos, indique que proposiciones
+usó y el valor de verdad resultante, use mínimo 1 proposición y máximo 3 en
+cada enunciado. 
+
+○ El Estudiante Univeritario tomará clases en linea y no necesita una computadora
+■ Proposiciones usadas: Conjunción 
+■ Valor resultante: falso
+
+○ El Estudiante Univsersitario tiene que leer libros y entregar tareas o No sabe leer y usará uniforme 
+■ Proposiciones usadas: Conjunción, disyunción y negación
+■ Valor resultante falso
+
+○ El Estudiante Universitario cuenta con acceso a internet o tomará clases en línea
+■ Proposiciones usadas: Conjunción
+■ Valor resultante: verdadero
+
+○ El Estudiante Univeritario no sabe leer  y tomará clases en linea 
+■ Proposiciones usadas: Conjunción
+■ Valor resultante: falso
+
+○ El Estudiante Univsersitario usará uniforme y construíra un cohete 
+■ Proposiciones usadas: Conjunción
+■ Valor resultante verdadero
+
+○ El Estudiante Universitario No puede ganar sin estudiar y presentará de manera presencial su trabajo final
+■ Proposiciones usadas: Conjunción y negación
+■ Valor resultante: verdadero
+
+○ El Estudiante Universitario Tiene que hacer una agenda para rganizar sus horarios y debe entregar tareas
+■ Proposiciones usadas: Conjunción
+■ Valor resultante: Verdadero
+
+○ El Estudiante Univeritario hará trabajos en grupo, no hará amistad con sus compañeros
+■ Proposiciones usadas: Negación
+■ Valor resultante: falso
+
+○ El Estudiante Univsersitario No debe participar en clases y debe ser responsable 
+■ Proposiciones usadas: Conjunción
+■ Valor resultante falso
+
+○ El Estudiante Universitario tiene deseo de aprender o no será sencillo graduarce
+■ Proposiciones usadas: Disyunción y negación
+■ Valor resultante: verdadero
